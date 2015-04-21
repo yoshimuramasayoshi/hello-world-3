@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+* Just another repository
+* edit README.md finish now
+* Let's go marge your commit !!
+* add change
